@@ -1,5 +1,5 @@
-Para que funcione, debe haberse creado el usuario alumno con contraseÒa alumno.
-Y tambiÈn la BD users.
+Para que funcione, debe haberse creado el usuario alumno con contrase√±a alumno.
+Y tambi√©n la BD dbjoes.
 
 CREATE TABLE users (
   ID int(11) NOT NULL AUTO_INCREMENT,
@@ -15,4 +15,4 @@ INSERT INTO users (ID,NAME,AGE,CITY) VALUES
  (2,'Ana',30,'Madrid'),
  (3,'Pedro',25,'Zaragoza');
 
-Par·metros de conexiÛn por defecto: 127.0.0.1 y puerto 3307
+Par√°metros de conexi√≥n por defecto: 127.0.0.1 y puerto 3307
